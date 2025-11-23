@@ -14,9 +14,7 @@ Model training with algorithms like:
 
 Multinomial Naive Bayes
 
-Support Vector Machine
 
-Logistic Regression
 
 Detailed evaluation with accuracy, confusion matrix & classification report
 
